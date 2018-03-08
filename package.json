@@ -1,0 +1,19 @@
+{
+  "name": "record-keeper-rufus",
+  "version": "1.0.0",
+  "description": "A google sheets bot for East Marches",
+  "main": "bot.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mantinone/Record-Keeper-Rufus.git"
+  },
+  "author": "mantinone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mantinone/Record-Keeper-Rufus/issues"
+  },
+  "homepage": "https://github.com/mantinone/Record-Keeper-Rufus#readme"
+}
